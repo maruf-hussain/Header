@@ -1,0 +1,34 @@
+/* Header Part Css Start Here */
+.menu {
+  background-color: #212529;
+}
+
+.card {
+  border: none;
+  border-radius: 0;
+}
+
+.card-img,
+.card-img-bottom {
+  border-bottom-right-radius: 0;
+  border-bottom-left-radius: 0;
+}
+
+.card-img,
+.card-img-top {
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+}
+
+.card-img-overlay {
+  background: rgba(0, 0, 0, 0.5);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.hero-pra {
+  width: 50%;
+}
+/* Header Part Css End Here */
